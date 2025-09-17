@@ -18,6 +18,7 @@ meta-spec:
 name: Mo-utils-Currency
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt

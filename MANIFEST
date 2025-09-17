@@ -1,5 +1,7 @@
 Changes
 Currency.pm
+examples/check_currency_code_fail.pl
+examples/check_currency_code_ok.pl
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
